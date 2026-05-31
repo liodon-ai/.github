@@ -1,5 +1,16 @@
 # Liodon AI
 
+Liodon AI is an open-source R&D collective exploring the intersection of **deep learning, agentic systems, and NLP evaluation**. Our repositories span:
+
+- **Agentic AI primitives** (e.g. `torchagentic`) — differentiable cognitive building blocks (memory, credit assignment, planning, exploration) designed to be importable by frameworks like LangChain, AutoGen, and CrewAI.
+- **LLM evaluation tooling** (e.g. `juryeval`) — lightweight NLP/LLM evaluation with LLM-as-Judge, significance testing, prompt robustness analysis, and framework integrations (lm-eval-harness, DeepEval, Lighteval, LangChain).
+- **Loss functions & optimization** (e.g. `TorchCriterion`) — modular, extensible deep learning loss functions in PyTorch.
+- **On-device & efficient ML** (e.g. `nanonlp`) — hardware-aware optimization for HuggingFace Transformers.
+- **Speech & embedding evaluation** (e.g. `semanticwer`, `torchembed`) — evaluation metrics for speech recognition and embedding quality.
+- **Prompt engineering tooling** (e.g. `promptgrad`) — prompt sensitivity analysis and gradient-based debugging.
+
+---
+
 **Liodon AI is not a company.** It is not incorporated, registered, or organized as any form of legal entity (corporation, LLC, partnership, or otherwise) in any jurisdiction. There is no revenue, no fundraising, no equity, no compensation, and no commercial operations associated with this organization.
 
 ## What This Is
